@@ -1,5 +1,6 @@
 # MindBoard-Applications
-
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/license/mit)
+![GitHub Pull Requests](https://img.shields.io/github/issues-pr-raw/Empa-Teknoloji/MindBoard-Applications)
 ## Introduction
 Welcome to the **MindBoard-Applications** repository! This repository is dedicated to showcasing advanced use cases of the **MindBoard**, focusing on:
 - Reading sensor data
